@@ -1,0 +1,49 @@
+
+body
+{
+    background: url(https://www.photoshopfreebrushes.com/wp-content/uploads/2015/08/subtle-web-background-5.jpg);
+}
+
+.authors
+{
+    list-style-type: georgian;
+    width: 95%;
+    margin:0 auto;
+}
+#table1,#table1 th,#table1 td,#table2,#table2 th,#table2 td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+    margin: auto;
+}
+thead{
+    background-color:silver;
+    color:whitesmoke
+}
+footer{
+    background-color:gray;
+    color: whitesmoke;
+    text-align: center;
+    margin: 2%;
+}
+#title,#title2
+{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 25px;
+}
+#title
+{
+    background-color: gray;
+    color: whitesmoke
+}
+article
+{
+    margin: 2%;
+}
+#sociallogo
+{
+    font-size: large;
+}
+    
